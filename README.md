@@ -21,5 +21,6 @@ gcc -o restaurant main.c BENSCHILLIBOWL.c -lpthread
 ```
 
 ## Usage
-bash
+```bash
 ./restaurant
+```
